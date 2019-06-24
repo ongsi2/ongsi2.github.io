@@ -15,8 +15,8 @@ baseurl:          ''
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'Sungmoo Shin'
+  url:            https://naver.com
 
 paginate:         5
 # paginate_path:    '/page:num'
