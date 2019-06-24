@@ -3,4 +3,5 @@ layout: category
 title: Java
 ---
 
-Java category page.
+자바관련 항목.
+***
