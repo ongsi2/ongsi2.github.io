@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            'Thmm'
+title:            Thmm
 tagline:          'A Jekyll theme'
 description:      'Thmm's Blog'
 url:              https://ongsi2.github.io
