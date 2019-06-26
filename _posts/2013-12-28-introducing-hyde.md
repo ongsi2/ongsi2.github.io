@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ---
 layout: post
 title: Introducing Hyde
@@ -36,7 +36,7 @@ Hyde is by preference a forward-thinking project. In addition to the latest vers
 Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
 
 Thanks!
-=======
+
 ---
 layout: post
 title: Introducing Hyde
@@ -74,4 +74,3 @@ Hyde is by preference a forward-thinking project. In addition to the latest vers
 Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
 
 Thanks!
->>>>>>> 69582c5cda9a7bac29c91806d46de520acc171aa
