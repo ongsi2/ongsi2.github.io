@@ -1,5 +1,4 @@
 # Today I Learned
-----
 
 ![Version](https://img.shields.io/badge/version-2019.06.26-red.svg)  ![License](https://img.shields.io/github/license/mashape/apistatus.svg)
 
@@ -9,8 +8,6 @@
 * and I also 치킨조아
 
 # 항목
-----
 
 ## 치킨
-----
 [[2019.06.26] 오늘의 치킨](https://ongsi2.github.io/chicken/2019/06/26/Chicken-TC.html)
