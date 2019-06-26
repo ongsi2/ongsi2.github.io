@@ -166,3 +166,7 @@ You can see the full set of partials you can replace in the
 
 There's also a bunch of minor tweaks and adjustments throughout the
 theme. Hope this works for you!
+<<<<<<< HEAD
+=======
+# ongsi2.github.io
+>>>>>>> 69582c5cda9a7bac29c91806d46de520acc171aa
