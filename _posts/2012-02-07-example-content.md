@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ---
 layout: post
 title: Example content
@@ -137,7 +137,7 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur e
 -----
 
 Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
-=======
+
 ---
 layout: post
 title: Example content
@@ -276,4 +276,4 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur e
 -----
 
 Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
->>>>>>> 69582c5cda9a7bac29c91806d46de520acc171aa
+
