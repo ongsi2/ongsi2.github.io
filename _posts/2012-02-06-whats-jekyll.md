@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 layout: post
 title: What's Jekyll?
@@ -22,5 +21,4 @@ title: What's Jekyll?
 
 It's an immensely useful tool and one we encourage you to use here with Hyde.
 
->>>>>>> 69582c5cda9a7bac29c91806d46de520acc171aa
 Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
