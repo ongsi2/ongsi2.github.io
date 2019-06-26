@@ -9,7 +9,6 @@ title: What's Jekyll?
 
 It's an immensely useful tool and one we encourage you to use here with Hyde.
 
-=======
 ---
 layout: post
 title: What's Jekyll?
